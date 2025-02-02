@@ -1,0 +1,6 @@
+,Ori name,New name,MASE_TYPE,Mase_OP,Original type,Quantized type,Changed
+0,x,x,placeholder,placeholder,x,x,False
+1,linear1,linear1,module_related_func,linear,Linear,LinearInteger,True
+2,relu,relu,module_related_func,relu,relu,relu,False
+3,linear2,linear2,module_related_func,linear,Linear,LinearInteger,True
+4,output,output,output,output,output,output,False
